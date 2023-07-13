@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="add_name_course" type="id" />
+    <item name="add_spinner_day" type="id" />
+    <item name="add_text_start_time" type="id" />
+    <item name="add_text_end_time" type="id" />
+    <item name="add_name_lecturer" type="id" />
+    <item name="add_note" type="id" />
+    <item name="add_start_time" type="id" />
+    <item name="add_end_time" type="id" />
+</resources>
